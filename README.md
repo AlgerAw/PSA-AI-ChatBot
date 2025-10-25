@@ -1,4 +1,4 @@
-This project was inspired by our participation in PSA Code Sprint 2025, a national hackathon where my team of four developed an innovative data-driven solution for PSA.
+This project was inspired by our participation in PSA Code Sprint 2025, a hackathon where my team of four developed an innovative data-driven solution for PSA.
 
 Our project uses Streamlit UI, Power BI Rest API, DAX translator, Azure OpenAI (GPT-4) API. 
 
